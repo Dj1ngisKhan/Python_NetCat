@@ -1,10 +1,9 @@
 # Python NetCat
 
-                       /)
-              /\___/\ ((
-              \`@_@'/  ))
-              {_:Y:.}_//
-    ---------{_}^-'{_}----------
+    zzz  |\      _,,,---,,_
+        /,`.-'`'    -.  ;-;;,_
+       |,4-  ) )-,_. ,\ (  `'-'
+       '---''(_/--'  `-'\_)  
     
 ## How to use
 
@@ -26,15 +25,3 @@ NOTE: It uses argparse, so you will need to run it from the terminal.
 - For help message: python netcat.py -h
 - Open Server: python netcat.py -c -t 0.0.0.0 -s -p 9998
 - Open Client: python netcat.py -t 127.0.0.1 -p 9998 -c
-
-( \
- \ \
- / /                |\\
-/ /     .-`````-.   / ^`-.
-\ \    /         \_/  {|} `o
- \ \  /   .---.   \\ _  ,--'
-  \ \/   /     \,  \( `^^^
-   \   \/\      (\  )
-    \   ) \     ) \ \
-     ) /__ \__  ) (\ \___
-    (___)))__))(__))(__)))
